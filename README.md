@@ -1,4 +1,5 @@
 ## Hi there! I'm José Padilla (but you can call me Pepe) 👋
+###### I use this profile for personal projects only. All my professional work has been done in private repositories owned by the clients, so it is not reflected here.
 
 - 🎓 **Computer Science Engineer**  
   - Master's degree in System Process Management  
