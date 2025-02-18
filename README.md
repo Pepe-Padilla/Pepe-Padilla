@@ -10,7 +10,7 @@
 
 - 🌱 Currently enrolled in the **Full-Stack Artificial Intelligence Bootcamp** at [KeepCoding](https://www.linkedin.com/school/keepcoding/posts/?feedView=all) [@KeepCoding](https://github.com/KeepCoding).  
 
-- 🤘 **Passionate about learning.** I constantly explore new programming languages, frameworks, and technologies. Beyond software engineering, I'm also eager to learn about science, history, critical thinking, and economics.  
+- 🤘 **Passionate about learning.** I constantly explore new programming languages, frameworks, and technologies. Beyond software engineering, I'm also eager to learn about science, history, critical thinking, and economics.
 
 - 💬 **Feel free to ask me anything!** I'm always happy to share knowledge and discuss interesting topics.  
 
