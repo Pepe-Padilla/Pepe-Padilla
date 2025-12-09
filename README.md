@@ -4,7 +4,7 @@
 - 🎓 **Computer Science Engineer**  
   - Master's degree in System Process Management  
   - Master's degree in Full-Stack Web/Mobile Development  
-  - [Ongoing] Master Bootcamp in Artificial Intelligence Full Stack  
+  - Master Bootcamp in Artificial Intelligence Full Stack  
 
 - 👨‍💻 **Software Engineer & Technical Lead** with over 16 years of experience in development, technical leadership, and support.  
 
